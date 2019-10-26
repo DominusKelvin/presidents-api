@@ -9,6 +9,7 @@
       { "name": "yearsInOffice", "type": "Integer" },
       { "name": "dateStarted", "type": "date" },
       { "name": "dateEnded", "type": "date" }
+      { "name": "politicalParty", "type": "string" }
     ]
   }
 }
