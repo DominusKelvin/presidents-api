@@ -32,7 +32,7 @@
       },
       {
         "name": "politicalParty",
-        "type": "string"
+        "type": "string",
         "name": "isLiving",
         "type": "boolean"
       }
