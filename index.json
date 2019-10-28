@@ -15,27 +15,27 @@
         "type": "string"
       },
       {
-        "name": "dateOfBirth",
+        "name": "date_of_birth",
         "type": "date"
       },
       {
-        "name": "yearsInOffice",
+        "name": "years_in_office",
         "type": "Integer"
       },
       {
-        "name": "dateStarted",
+        "name": "date_started",
         "type": "date"
       },
       {
-        "name": "dateEnded",
+        "name": "date_ended",
         "type": "date"
       },
       {
-        "name": "isLiving",
+        "name": "is_living",
         "type": "boolean"
       },
       {
-        "name": "politicalParty",
+        "name": "political_party",
         "type": "string"
       }
     ],
@@ -52,27 +52,27 @@
           "required": false
         },
         {
-          "name": "dateOfBirth",
+          "name": "date_of_birth",
           "type": "date",
           "required": false
         },
         {
-          "name": "yearsInOffice",
+          "name": "years_in_office",
           "type": "integer",
           "required": true
         },
         {
-          "name": "dateStarted",
+          "name": "date_started",
           "type": "date",
           "required": true
         },
         {
-          "name": "dateEnded",
+          "name": "date_ended",
           "type": "date",
           "required": true
         },
         {
-          "name": "isLiving",
+          "name": "is_living",
           "type": "boolean",
           "required": true
         }
