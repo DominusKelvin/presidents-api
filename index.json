@@ -2,14 +2,38 @@
   "president": {
     "description": "Repesents a single president in the system",
     "fields": [
-      { "name": "id", "type": "string" },
-      { "name": "name", "type": "string" },
-      { "name": "ethnicity", "type": "string" },
-      { "name": "dateOfBirth", "type": "date" },
-      { "name": "yearsInOffice", "type": "Integer" },
-      { "name": "dateStarted", "type": "date" },
-      { "name": "dateEnded", "type": "date" }
-      { "name": "politicalParty", "type": "string" }
+      {
+        "name": "id",
+        "type": "string"
+      },
+      {
+        "name": "name",
+        "type": "string"
+      },
+      {
+        "name": "ethnicity",
+        "type": "string"
+      },
+      {
+        "name": "dateOfBirth",
+        "type": "date"
+      },
+      {
+        "name": "yearsInOffice",
+        "type": "Integer"
+      },
+      {
+        "name": "dateStarted",
+        "type": "date"
+      },
+      {
+        "name": "dateEnded",
+        "type": "date"
+      },
+      {
+        "name": "politicalParty",
+        "type": "string"
+      }
     ]
   }
 }
