@@ -31,10 +31,12 @@
         "type": "date"
       },
       {
-        "name": "politicalParty",
-        "type": "string",
         "name": "isLiving",
         "type": "boolean"
+      },
+      {
+        "name": "politicalParty",
+        "type": "string"
       }
     ],
     "president_form": {
